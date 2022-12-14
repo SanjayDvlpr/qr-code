@@ -10,7 +10,9 @@ body {
   justify-content: center;
   align-items: center;
   background-color: hsl(212, 45%, 89%);
-}
+  margin-top: 5%;
+
+   }
 
 p {
   font-family: 'Outfit', sans-serif;
@@ -39,6 +41,8 @@ h1 {
   margin: 3.125rem;
   border-radius: 0.625rem;
   gap: 1.25rem;
+ 
+     
 }
 
 .img {
@@ -50,4 +54,6 @@ h1 {
 .attribution {
   font-size: 0.625rem;
   text-align: center;
+ 
+      
 }
